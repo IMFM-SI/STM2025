@@ -1,0 +1,99 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Domain theory
+
+* Organizing committee Andrej Bauer and Martin Escardo.
+
+* PC
+
+A compendium member (Mislove, Lawson)
+Programming language (Plotkin, Pitts)
+Synthetic (Hyland, Rosolini, Simpson)
+Higher-type Computability (Ulrich Berger, Dag Normann, John Longley)
+
+* On the occasion of Dana Scott 85th birthday and 50 years of
+domain theory.
+
+The Workshop on Domains is aimed at computer scientists and
+mathematicians alike who share an interest in the mathematical
+foundations of computation. The workshop will focus on domains,
+their applications and related topics.  Previous meetings were
+held in Darmstadt (94,99,04), Braunschweig (96), Munich (97),
+Siegen (98), Birmingham (02), Novosibirsk (07) and Brighton (08),
+Swansea (2011), Paris (2014), Cork (2015).
+
+SCOPE
+
+    Domain theory has had applications to programming language
+semantics and logics (lambda-calculus, PCF, LCF), recursion theory
+(Kleene-Kreisel countable functionals), general topology (injective
+spaces, function spaces, locally compact spaces, Stone duality),
+topological algebra (compact Hausdorff semilattices) and analysis
+(measure, integration, dynamical systems). Moreover, these
+applications are related - for example, Stone duality has given
+rise to a logic of observable properties of computational
+processes.
+
+* organisational part:
+
+*        contact information for the workshop organizers;
+
+*        proposed affiliated conference: LICS
+
+
+* estimate of the number of workshop participants: 55-65
+
+* proposed format and agenda (e.g. paper presentations, tutorials, demo sessions, etc.);
+
+
+* Invited speaker: Dana Scott.
+
+* potential invited speakers: Fourman, Rosolini, (Birkedal,) Lawson
+
+This includes three PhD students of Dana Scott's from different periods and areas of research, and a collaborator in the Compendium of Continuous Lattices, in the field of topology and topological algebra. Other potential speakers are listed below.
+
+This is a preliminary list, to be completed by the programme committee. 
+
+* procedures for selecting papers and participants;
+
+The program committee will select plenary speakers and invited speakers, as well as contributed papers based on submitted 2-page abstracts. 
+
+
+Many other people are also qualified to represent the depth of domain theory, including: Abramsky, Berger, Erhard, Edalat, Hyland, Longley, Normann, Simpson. 
+
+* plans for dissemination, if any (e.g. a journal special issue);
+
+  Post-proceedings.
+
+* duration 2 days, no preference mid or post FLoC, after LICS.
+
+
+* Schedule
+
+Day 1
+
+Morning 1 - 90 - Dana's session (introduction, talk (60), questions and discussion)
+--
+Morning 2 - 60 - 2 invited
+--
+Afternoon 1 - 60 - Invited (plennary)
+Afternoon 2 - 30 - Invited
+--
+Afternoon 3 - 90 - Contributed (dagger)
+
+Day 2
+
+Morning 1 - 60 - Invited (plennary)
+Morning 2 - 30 - Invited
+--
+Morning 3 - 60 - 2 invited
+--
+Afternoon 1 - 60 - Invited (plennary)
+Afternoon 2 - 30 - Invited
+--
+Afternoon 3 - 90 - Contributed (dagger)
+
+(dagger) Up to 4 in each session, up to a total of 8, to be decided by
+programme committee.
