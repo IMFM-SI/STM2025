@@ -6,13 +6,15 @@ layout: page
 
 ### Fifty years of domain theory
 
-Fifty years ago, [Dana Scott](https://www.cs.cmu.edu/~scott/) introduced domain theory for
-the purposes of denotational semantics of programming languages when he was in Oxford,
-where he worked with Christopher Strachey. This work has had a vast and lasting impact on
-logic, computer science, and mathematics. We will celebrate 50 years of domain theory and
-Dana Scott's 85th birthday in the DOMAINS workshop series, on the 8th and 9th of July 2017
-in Oxford UK. The event is affiliated with
-the [Federated Logic Conference 2018](http://www.floc2018.org).
+Fifty years ago, [Dana Scott](https://www.cs.cmu.edu/~scott/)
+introduced domain theory for the purposes of denotational semantics of
+programming languages when he was in Oxford, where he worked with
+Christopher Strachey. This work has had a vast and lasting impact on
+logic, computer science, and mathematics. As part of the Workshop
+DOMAINS'2018, which will take place in Oxford on 8–9 July 2018, we
+will celebrate 50 years of domain theory and Dana Scott's 85th
+birthday. The event is affiliated with the [Federated Logic Conference
+2018](http://www.floc2018.org).
 
 ### About the DOMAINS workshop series
 
