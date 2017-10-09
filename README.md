@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Workshop DOMAINS
 
-You can use the [editor on GitHub](https://github.com/andrejbauer/domains-floc-2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 50 years of domain theory
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FloC affiliated workshop, Oxford UK, July 8–9 2018
 
-### Markdown
+Fifty years ago, [Dana Scott](https://www.cs.cmu.edu/~scott/) introduced domain theory for
+the purposes of denotational semantics of programming languages when he was in Oxford,
+where he worked with Christopher Strachey. This work has had a vast and lasting impact on
+logic, computer science, and mathematics. We will celebrate 50 years of domain theory and
+Dana Scott's 85th birthday in the DOMAINS workshop series, which will be affiliated with
+the [Federated Logic Conference 2018](http://www.floc2018.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The applications of domain theory include programming logics (LCF), design of programming
+languages, models of the lambda calculus, applications to recursion theory (higher-type
+computability, Kleene-Kreisel countable functionals), general topology (injective spaces,
+function spaces, locally compact spaces, Stone duality), topological algebra (Lawson
+semilattices) and analysis (measure, integration, dynamical systems). Moreover, these
+applications are related – for example, Stone duality has given rise to a logic of
+observable properties of computational processes.
 
-```markdown
-Syntax highlighted code block
+#### Organization
 
-# Header 1
-## Header 2
-### Header 3
+The event is organized by [Andrej Bauer](http://www.andrej.com/) and [Martín Escardó](http://www.cs.bham.ac.uk/~mhe/).
 
-- Bulleted
-- List
+Further details about the Program committee and the format of the meeting will be
+published here in due time.
 
-1. Numbered
-2. List
+#### About the DOMAINS workshop series
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrejbauer/domains-floc-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Domains workshop series is aimed at computer scientists and mathematicians alike who
+share an interest in the mathematical foundations of computation. The workshop series
+focuses on domains, their applications in mathematics and computer science, and related
+topics. Previous meetings were held in Darmstadt (1994, 1999, 2004), Braunschweig (1996),
+Munich (1997), Siegen (1998), Birmingham (2002), Novosibirsk (2007), Brighton (2008),
+Swansea (2011), Paris (2014), and Cork (2015).
