@@ -1,6 +1,6 @@
 ---
 title: Workshop DOMAINS
-description: 8–9 July 2018, Oxford UK
+description: 7–8 July 2018, Oxford UK
 layout: page
 ---
 
