@@ -81,7 +81,8 @@ We plan a special issue in a journal for post-proceedings.
 
 Deadline for submission of Abstracts: 18th March
 
-Submission via is via Easychair at https://easychair.org/conferences/?conf=domains13.
+Submission is via Easychair at
+https://easychair.org/conferences/?conf=domains13.
 Please keep the abstract to two pages (pdf).
 
 Notification of acceptance: 16th April
