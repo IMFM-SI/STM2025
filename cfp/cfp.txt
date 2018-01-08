@@ -79,7 +79,7 @@ Organizers
 
 We plan a special issue in a journal for post-proceedings.
 
-Deadline for submission of Abstracts: 18th March
+Deadline for submission of abstracts: 18th March
 
 Submission is via Easychair at
 https://easychair.org/conferences/?conf=domains13.
