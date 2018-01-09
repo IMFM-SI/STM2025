@@ -18,6 +18,8 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 #### Invited speakers
 
+Invited speakers include:
+
 * [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University)
 
 #### Programme Committee
