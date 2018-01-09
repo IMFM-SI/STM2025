@@ -31,7 +31,7 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 #### Call for extended abstracts
 
-Please submit a short extended abstract (up to 2 pages excluding bibliography) through
+Please submit a short extended abstract (up to 2 pages not counting bibliography) through
 the [DOMAINS at Easychair](https://easychair.org/conferences/?conf=domains13).
 
 * **Submission deadline: March 18th, 2018**
