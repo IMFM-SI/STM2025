@@ -29,7 +29,7 @@ birthday. The event is affiliated with the [Federated Logic Conference
 
 #### Call for extended abstracts
 
-Please submit a short extended abstract (up to 2 pages) through
+Please submit a short extended abstract (up to 2 pages excluding bibliography) through
 the [DOMAINS at Easychair](https://easychair.org/conferences/?conf=domains13).
 
 * **Submission deadline: March 18th, 2018**
