@@ -9,7 +9,7 @@ introduced domain theory for the purposes of denotational semantics of
 programming languages when he was in Oxford, where he worked with
 Christopher Strachey. This work has had a vast and lasting impact on
 logic, computer science, and mathematics. As part of the Workshop
-DOMAINS'2018, which will take place in Oxford on 8–9 July 2018, we
+DOMAINS'2018, which will take place in Oxford on 7–8 July 2018, we
 will celebrate 50 years of domain theory and Dana Scott's 85th
 birthday. The event is affiliated with the [Federated Logic Conference
 2018](http://www.floc2018.org).
