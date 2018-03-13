@@ -18,9 +18,11 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 #### Invited speakers
 
-Invited speakers include:
-
+The invited speakers include:
 * [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University)
+* [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford)
+* [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford)
+* [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University)
 
 #### Programme Committee
 
