@@ -18,7 +18,6 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 #### Invited speakers
 
-The invited speakers include:
 * [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University)
 * [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford)
 * [Ulrich Berger](http://www-compsci.swan.ac.uk/~csulrich/) (Swansea)
