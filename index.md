@@ -20,6 +20,7 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 * [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University)
 * [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford)
+* [Stephen Brookes](http://www.cs.cmu.edu/~brookes/) (CMU)
 * [Ulrich Berger](http://www-compsci.swan.ac.uk/~csulrich/) (Swansea)
 * [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford)
 * [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University)
