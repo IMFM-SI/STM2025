@@ -48,6 +48,24 @@ We plan a special issue in a journal for post-proceedings.
 
 Please register using the [FLoC 2018 registration](http://www.floc2018.org/register/) procedure.
 
+#### Accepted papers
+
+* M. Andrew Moshier and Imanol Mozo Carollo: *Frames and frame relations*
+* Jean Goubault-Larrecq: *A Daniell-Kolmogorov Theorem for Continuous Valuations*
+* Gabriel Ciobanu and Eneia Nicolae Todoran: *Abstractness of Continuation Semantics for Asynchronous Concurrency*
+* Chong Shen, Xiaoyong Xi, Dongsheng Zhao and Qingyu He: *I-equivalence of posets*
+* Hideki Tsuiki and Arno Pauly: *T^ω-representations of compact sets through dyadic subbases*
+* Thomas Cottrell, Soichiro Fujii and John Power: *Higher-dimensional categories: recursion on extensivity*
+* Tatsuji Kawai: *Applications of entailments: de Groot duality*
+* Achim Jung, Alexander Kurz and M. Andrew Moshier: *Extending Stone Duality to Relations*
+* Paul Blain Levy and Ohad Kammar: *Algebra semantics of recursive computation types*
+* Abbas Edalat and Mehrdad Maleki: *A logical view of complex analytic maps*
+* Matthijs Vákár, Ohad Kammar and Sam Staton: *Diffeological Spaces and Semantics for Differential Programming*
+* John Longley: *Robust computability notions for types arising in classical analysis*
+* Michael Mislove: *A Domain-theoretic Skorohod’s Theorem*
+* Michael Fourman: *A Brouwerian proof of the Fan Theorem*
+* Barry Jay: *Domain Theory for Intensional Computation*
+
 #### Organization
 
 The event is organized by [Andrej Bauer](http://www.andrej.com/) and [Martín Escardó](http://www.cs.bham.ac.uk/~mhe/).
