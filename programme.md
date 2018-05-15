@@ -21,7 +21,7 @@
 
  - 16:00-16:25 Thomas Cottrell, Soichiro Fujii and John Power	Higher-dimensional categories: recursion on extensivity
  - 16:25-16:50 Abbas Edalat and Mehrdad Maleki	A logical view of complex analytic maps
- - 17:00-18:00 Remebering Klaus Keimel
+ - 17:00-18:00 Remembering Klaus Keimel
  
 # Session 6D 09:00-10:30
 
