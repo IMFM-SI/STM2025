@@ -1,7 +1,7 @@
 
 # Session 1C 09:00-10:30
 
- - 09.00-09.10 TBA              Opening
+ - 09.00-09.10                  Opening
  - 09:10-10:00 Dana Scott	Looking Backward; Looking Forward
  - 10:00-10:30 Michael Fourman	A Brouwerian proof of the Fan Theorem
 
@@ -21,7 +21,7 @@
 
  - 16:00-16:25 Thomas Cottrell, Soichiro Fujii and John Power	Higher-dimensional categories: recursion on extensivity
  - 16:25-16:50 Abbas Edalat and Mehrdad Maleki	A logical view of complex analytic maps
- - 16:50-18:00 Dana Scott's birthday, Klaus Keimel commemoration
+ - 17:00-18:00 Remebering Klaus Keimel
  
 # Session 6D 09:00-10:30
 
@@ -47,3 +47,5 @@
  - 16:25-16:50 Achim Jung, Alexander Kurz and M. Andrew Moshier	Extending Stone Duality to Relations		
  - 16:50-17:15 Tatsuji Kawai	Applications of entailments: de Groot duality
  - 17:15-17:40 Chong Shen, Xiaoyong Xi, Dongsheng Zhao and Qingyu He	I-equivalence of posets
+ - 17:40-18:00 Closing
+ 
