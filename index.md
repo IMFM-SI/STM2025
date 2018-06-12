@@ -66,6 +66,22 @@ Please register using the [FLoC 2018 registration](http://www.floc2018.org/regis
 * Michael Fourman: *A Brouwerian proof of the Fan Theorem*
 * Barry Jay: *Domain Theory for Intensional Computation*
 
+##### A statement regarding the paper by Abbas Edalat and Mehrdad Maleki
+
+The Organizers and PC members of the workshop are deeply disappointed that our longtime
+colleague Abbas Edalat is currently under arrest in Iran and is therefore unable to attend
+the meeting and present a paper he and a colleague submitted for the workshop. As far as
+we know, no formal charges have been lodged against Professor Edalat, and no trial date
+has been set. We are concerned for the health and well being of our colleague. We also are
+mystified why a native Iranian who has devoted so much his time and energy to opening
+communication between the academic community in Iran and those in the west, and who
+founded CASMII, the campaign against sanctions and military intervention in Iran, has been
+imprisoned. We urge all those in positions to intervene on his behalf to make every effort
+to have him freed as soon as possible.
+
+More information can be found at [Abbas Edalat's Wikipedia page](https://en.wikipedia.org/wiki/Abbas_Edalat) and at the [Communications
+of the ACM web page](https://cacm.acm.org/opinion/articles/228407-our-concerns-about-the-arrest-of-abbas-edalat-in-iran/fulltext).
+
 #### Organization
 
 The event is organized by [Andrej Bauer](http://www.andrej.com/) and [Martín Escardó](http://www.cs.bham.ac.uk/~mhe/).
