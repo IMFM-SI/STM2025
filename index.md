@@ -60,7 +60,7 @@ Please register using the [FLoC 2018 registration](http://www.floc2018.org/regis
 * Gabriel Ciobanu and Eneia Nicolae Todoran: *Abstractness of Continuation Semantics for Asynchronous Concurrency* ([Slides](slides/Ciobanu-Todoran.pdf))
 * Chong Shen, Xiaoyong Xi, Dongsheng Zhao and Qingyu He: *I-equivalence of posets*
 * Hideki Tsuiki and Arno Pauly: *T^ω-representations of compact sets through dyadic subbases* ([Slides](slides/Tsuiki.pdf))
-* Thomas Cottrell, Soichiro Fujii and John Power: *Higher-dimensional categories: recursion on extensivity*
+* Thomas Cottrell, Soichiro Fujii and John Power: *Higher-dimensional categories: recursion on extensivity* (slides/Cottrel-Fujii-Power.pdf))
 * Tatsuji Kawai: *Applications of entailments: de Groot duality* ([Slides](slides/Kawai.pdf))
 * Achim Jung, Alexander Kurz and M. Andrew Moshier: *Extending Stone Duality to Relations* ([Slides](slides/Moshier-Jung-Kurz.pdf))
 * Paul Blain Levy and Ohad Kammar: *Algebra semantics of recursive computation types* ([Slides](slides/Kammar-Levy.pdf))
