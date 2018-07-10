@@ -18,12 +18,17 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 
 #### Invited speakers
 
-* [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University)
-* [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford)
-* [Ulrich Berger](http://www-compsci.swan.ac.uk/~csulrich/) (Swansea)
+* [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University) ([Slides 1](slides/Scott1.pdf)) ([Slides 2](slides/Scott2.pdf))
+* [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford) ([Slides](slides/Abramsky.pdf))
+* [Ulrich Berger](http://www-compsci.swan.ac.uk/~csulrich/) (Swansea) ([Slides](slides/Berger.pdf))
 * [Stephen Brookes](http://www.cs.cmu.edu/~brookes/) (Carnegie Mellon University)
-* [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford)
-* [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University)
+* [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford) ([Slides](slides/Kammar.pdf))
+* [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University) ([Slides](slides/Lawson.pdf))
+
+## Invited speakers for the special session on denotational semantics organized by Stephen Brookes
+
+* [Gordon Plotkin](http://homepages.inf.ed.ac.uk/gdp/) (Edinburgh) 
+* [Glynn Winskel](https://www.cl.cam.ac.uk/~gw104/) (Cambridge) ([Slides](slides/Winskel.pdf))
 
 #### Programme Committee
 
@@ -50,21 +55,21 @@ Please register using the [FLoC 2018 registration](http://www.floc2018.org/regis
 
 #### Accepted papers
 
-* M. Andrew Moshier and Imanol Mozo Carollo: *Frames and frame relations*
+* M. Andrew Moshier and Imanol Mozo Carollo: *Frames and frame relations* ([Slides](slides/Moshier-Mozo.pdf))
 * Jean Goubault-Larrecq: *A Daniell-Kolmogorov Theorem for Continuous Valuations*
-* Gabriel Ciobanu and Eneia Nicolae Todoran: *Abstractness of Continuation Semantics for Asynchronous Concurrency*
+* Gabriel Ciobanu and Eneia Nicolae Todoran: *Abstractness of Continuation Semantics for Asynchronous Concurrency* ([Slides](slides/Ciobanu-Todoran.pdf))
 * Chong Shen, Xiaoyong Xi, Dongsheng Zhao and Qingyu He: *I-equivalence of posets*
-* Hideki Tsuiki and Arno Pauly: *T^ω-representations of compact sets through dyadic subbases*
+* Hideki Tsuiki and Arno Pauly: *T^ω-representations of compact sets through dyadic subbases* ([Slides](slides/Tsuiki.pdf))
 * Thomas Cottrell, Soichiro Fujii and John Power: *Higher-dimensional categories: recursion on extensivity*
-* Tatsuji Kawai: *Applications of entailments: de Groot duality*
-* Achim Jung, Alexander Kurz and M. Andrew Moshier: *Extending Stone Duality to Relations*
-* Paul Blain Levy and Ohad Kammar: *Algebra semantics of recursive computation types*
-* Abbas Edalat and Mehrdad Maleki: *A logical view of complex analytic maps*
-* Matthijs Vákár, Ohad Kammar and Sam Staton: *Diffeological Spaces and Semantics for Differential Programming*
-* John Longley: *Robust computability notions for types arising in classical analysis*
-* Michael Mislove: *A Domain-theoretic Skorohod’s Theorem*
-* Michael Fourman: *A Brouwerian proof of the Fan Theorem*
-* Barry Jay: *Domain Theory for Intensional Computation*
+* Tatsuji Kawai: *Applications of entailments: de Groot duality* ([Slides](slides/Kawai.pdf))
+* Achim Jung, Alexander Kurz and M. Andrew Moshier: *Extending Stone Duality to Relations* ([Slides](slides/Moshier-Jung-Kurz.pdf))
+* Paul Blain Levy and Ohad Kammar: *Algebra semantics of recursive computation types* ([Slides](slides/Kammar-Levy.pdf))
+* Abbas Edalat and Mehrdad Maleki: *A logical view of complex analytic maps* ([Slides](slides/Maleki-Edalat.pdf))
+* Matthijs Vákár, Ohad Kammar and Sam Staton: *Diffeological Spaces and Semantics for Differential Programming* ([Slides](slides/Matthijs-Kammar-Staton.pdf))
+* John Longley: *Robust computability notions for types arising in classical analysis* ([Slides](slides/Longley.pdf))
+* Michael Mislove: *A Domain-theoretic Skorohod’s Theorem* ([Slides](slides/Mislove.pdf))
+* Michael Fourman: *A Brouwerian proof of the Fan Theorem* ([Slides](slides/Fourman.pdf))
+* Barry Jay: *Domain Theory for Intensional Computation* ([Slides](slides/Jay.pdf))
 
 #### Organization
 
