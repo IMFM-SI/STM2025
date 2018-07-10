@@ -67,7 +67,7 @@ There is also the [Domains programme](https://easychair.org/smart-program/FLoC20
 * Tatsuji Kawai: *Applications of entailments: de Groot duality* ([Slides](slides/Kawai.pdf))
 * Achim Jung, Alexander Kurz and M. Andrew Moshier: *Extending Stone Duality to Relations* ([Slides](slides/Moshier-Jung-Kurz.pdf))
 * Paul Blain Levy and Ohad Kammar: *Algebra semantics of recursive computation types* ([Slides](slides/Kammar-Levy.pdf))
-* Abbas Edalat and Mehrdad Maleki: *A logical view of complex analytic maps* ([Slides with voice recording](slides/Maleki-Edalat.pdf))
+* Abbas Edalat and Mehrdad Maleki: *A logical view of complex analytic maps* ([Slides with voice recording by Maleki](slides/Maleki-Edalat.pdf))
 * Matthijs Vákár, Ohad Kammar and Sam Staton: *Diffeological Spaces and Semantics for Differential Programming* ([Slides](slides/Matthijs-Kammar-Staton.pdf))
 * John Longley: *Robust computability notions for types arising in classical analysis* ([Slides](slides/Longley.pdf))
 * Michael Mislove: *A Domain-theoretic Skorohod’s Theorem* ([Slides](slides/Mislove.pdf))
