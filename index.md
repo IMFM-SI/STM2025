@@ -25,8 +25,9 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 * [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford) ([Slides](slides/Kammar-Vakar-Staton.pdf))
 * [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University) ([Slides](slides/Lawson.pdf))
 
-## Invited speakers for the special session on denotational semantics organized by Stephen Brookes
+## Special session invited speakers
 
+For the special session on denotational semantics organized by Stephen Brookes:
 * [Gordon Plotkin](http://homepages.inf.ed.ac.uk/gdp/) (Edinburgh) 
 * [Glynn Winskel](https://www.cl.cam.ac.uk/~gw104/) (Cambridge) ([Slides](slides/Winskel.pdf))
 
