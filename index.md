@@ -53,7 +53,9 @@ We plan a special issue in a journal for post-proceedings.
 
 Please register using the [FLoC 2018 registration](http://www.floc2018.org/register/) procedure.
 
-#### Accepted papers
+#### [Programme](https://easychair.org/smart-program/FLoC2018/Domains-program.html)
+
+#### Accepted papers and slides
 
 * M. Andrew Moshier and Imanol Mozo Carollo: *Frames and frame relations* ([Slides](slides/Moshier-Mozo.pdf))
 * Jean Goubault-Larrecq: *A Daniell-Kolmogorov Theorem for Continuous Valuations*
