@@ -21,7 +21,7 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 * [Dana Scott](https://www.cs.cmu.edu/~scott/) (Carnegie Mellon University) ([Slides 1](slides/Scott1.pdf)) ([Slides 2](slides/Scott2.pdf))
 * [Samson Abramsky](https://www.cs.ox.ac.uk/samson.abramsky/) (Oxford) ([Slides](slides/Abramsky.pdf))
 * [Ulrich Berger](http://www-compsci.swan.ac.uk/~csulrich/) (Swansea) ([Slides](slides/Berger.pdf))
-* [Stephen Brookes](http://www.cs.cmu.edu/~brookes/) (Carnegie Mellon University)
+* [Stephen Brookes](http://www.cs.cmu.edu/~brookes/) (Carnegie Mellon University) ([Slides](slides/Brookes.pdf))
 * [Ohad Kammar](http://www.cs.ox.ac.uk/people/ohad.kammar/main.html) (Oxford) ([Slides](slides/Kammar-Vakar-Staton.pdf))
 * [Jimmie Lawson](https://www.math.lsu.edu/~lawson/) (Lousiana State University) ([Slides](slides/Lawson.pdf))
 
