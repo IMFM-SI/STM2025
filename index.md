@@ -28,7 +28,7 @@ the [Federated Logic Conference 2018](http://www.floc2018.org).
 #### Special session invited speakers
 
 For the special session on denotational semantics organized by Stephen Brookes:
-* [Gordon Plotkin](http://homepages.inf.ed.ac.uk/gdp/) (Edinburgh) 
+* [Gordon Plotkin](http://homepages.inf.ed.ac.uk/gdp/) (Edinburgh)
 * [Glynn Winskel](https://www.cl.cam.ac.uk/~gw104/) (Cambridge) ([Slides](slides/Winskel.pdf))
 
 #### Programme Committee
@@ -54,6 +54,9 @@ We plan a special issue in a journal for post-proceedings.
 
 Please register using the [FLoC 2018 registration](http://www.floc2018.org/register/) procedure.
 
+#### Remembering Klaus Keimel
+
+* [Achim Jung's slides](slides/Jung.pdf)
 
 #### Accepted papers and slides
 
