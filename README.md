@@ -1,4 +1,4 @@
-### Organization and web pages for the DOMAINS 2018 workshop
+### Organization and web pages
 
 #### How do generate the web page locally
 
