@@ -272,6 +272,8 @@ img.stm-profile-image {
     margin-bottom: 20px;
     border: 5px solid rgba(240, 95, 64, 0.5);
     border-radius: 50%;
+    max-width:50%;
+    height:auto
 }
 
 #schedule {
